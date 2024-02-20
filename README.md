@@ -1,4 +1,4 @@
-EKS setup with terraform: https://www.padok.fr/en/blog/aws-eks-cluster-terraform
+EKS setup with terraform.
 
 Prerecs:
 - Administrator access to an aws account. For example, register for a free trial account. 
